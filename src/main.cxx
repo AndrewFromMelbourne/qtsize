@@ -43,8 +43,6 @@ int main(int argc, char* argv[])
     window.setPalette(palette);
     window.resize(640, 480);
 
-
-
     window.show();
 
     return a.exec();
